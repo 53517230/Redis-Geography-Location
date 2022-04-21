@@ -1,0 +1,8 @@
+server:
+ port: 8089
+spring:
+  redis:
+   host: localhost
+   port: 6379
+   timeout: 3000
+   database: 1
